@@ -1,5 +1,12 @@
 void main () {
+
+  // A PROGRAM USING CONDITIONAL STATEMENTS TO PRINT COMMENTS BASED ON STUDENTS GRADES.
+
+  //INITIALIZE VARIABLE MARKS AND STORE THE VALUE 80.
+
   int marks = 80 ;
+
+  //USING IF ELSE STATEMENTS.
 
   if (marks > 85) {
     print("EXCELLENT");
@@ -15,3 +22,5 @@ void main () {
   }
       
 }
+
+//OUTPUT: VERY GOOD.
